@@ -667,6 +667,10 @@ transform-origin: 0 50%;
 
 /* final site */
 
-body {
-    background: gold;
+:root {
+    --color-primary: #2584ff;
+    --color-secondary: #00d9ff;
+    --color-accent: #ff3400;
+    --color-heading: #1b0760;
+    --color-body: #918ca4;
 }
